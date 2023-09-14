@@ -1,0 +1,4 @@
+1.Arrays
+  --------
+* Multiple values of similar type store in a single variable.
+* Two dimensional array contains 2 index , one for array and second for element index
